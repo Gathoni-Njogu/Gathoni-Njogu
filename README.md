@@ -48,4 +48,5 @@ In each project was done an end-to-end project, including the following sequence
 
 ## AWS Cloud Practitictioner Certifiaction
 ![alt text](aws_certified_cloud_practitioner_badge.png)
+
 Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. That means I have demonstrated cloud fluency and foundational AWS knowledge. I am able to identify essential AWS services necessary to set up AWS-focused projects.

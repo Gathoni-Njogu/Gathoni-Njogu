@@ -21,7 +21,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mercy-milkah-gathoni
 
 ![alt text](data_sci.jpg)
 
-In each project was done an end-to-end project, including the following sequence of steps:
+Each project was done as an end-to-end project, including the following sequence of steps:
 - Introduction of the project, giving all the necessary information for the understanding of the project, and a description of the variables used.
 - Import of libraries used on the projects.
 - Import of the data and getting some basic information of the dataset.
@@ -56,6 +56,8 @@ Earners of this certification have a fundamental understanding of IT services an
 [Applied Data Science II: Machine Learning & Statistical Analysis (with honors)](https://www.credly.com/badges/e0c6875f-7763-4891-824c-1b1c4c1fca28/public_url)
 ![alt text](applied-data-science-ii-machine-learning-statistical-analysis-with-honors_badge.png)
 
-Earners of this badge are able to build machine learning models to make predictions on real-world data. I understand the best way to treat, clean, and encode data and how to choose the appropriate machine learning models for the task. I can properly tune the model to create a generalized model that performs well on both a training set and on out-of-sample data. I can build models using text and time series data. I am also proficient in using Python’s scikit-learn package.
+Earners of this badge are able to build machine-learning models to make predictions on real-world data. I understand the best way to treat, clean, and encode data and how to choose the appropriate machine-learning
+ models for the task. I can properly tune the model to create a generalized model that performs well on both a training set and on out-of-sample data. I can build models using text and time series data. I am also proficient in using Python’s scikit-learn package.
+ <img width="651" alt="applied-data-science-ii-machine-learning-statistical-analysis-with-honors_badge" src="https://github.com/Gathoni-Njogu/Gathoni-Njogu/assets/49722082/88037b41-4a6a-4c46-950f-eb46523967cd">
 
 
